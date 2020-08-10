@@ -1,5 +1,5 @@
 # flock
-Flock an amalgamation of Flow and Fork, is a Systems programming language, designed to be easy to read, easy to write and performant.
+Flock an amalgamation of Flow and Fork, is a Systems programming language, designed to be easy to read, easy to write, and performant.
 
 ## Flock's initial aims:
 
