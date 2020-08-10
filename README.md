@@ -12,7 +12,7 @@ Flock an amalgamation of Flow and Fork, is a Systems programming language, desig
 * Symbol minimalist (i.e. keeping down on the number of different symbols)
 * Clearly Structured, (i.e. not perl)
 * Pointer free (no ``&**``mayvar)
-* Convention orientated, (i.e. if most programming languages have a convention, follow that convention
+* Convention orientated, (i.e. if most programming languages have a convention, follow that convention)
 * Operator overloading, whilst retaining clarity (tough one)
 * no lifetime semantics,
 * Machine sympathetic, (Smart resource management)
