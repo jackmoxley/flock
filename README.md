@@ -18,6 +18,7 @@ Flock an amalgamation of Flow and Fork, is a Systems programming language, desig
 * Machine sympathetic, (Smart resource management)
 * Fully compiled
 * Support for Dependency Injection
+* Support for Aspect Orientated Programming
 * Support for Testing (including spec by example, such as cucumber)
 * Null free
 * Extensible
